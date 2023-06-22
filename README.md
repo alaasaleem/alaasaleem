@@ -6,5 +6,4 @@
 
 </div>
 
-![GIF](https://media.tenor.com/ITc1hNBSH_wAAAAd/coding-typing.gif)
-![Coding GIF](https://media.tenor.com/images/13be5c52b5dd5876fbb98e734fd01268/tenor.gif)
+![Coding GIF](https://media.tenor.com/ITc1hNBSH_wAAAAd/coding-typing.gif)
