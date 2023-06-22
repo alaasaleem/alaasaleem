@@ -1,32 +1,3 @@
-<!DOCTYPE html>
-<html>
-
-<head>
-  <title>Alaa Saleem</title>
-  <style>
-    .animation {
-      animation-name: fade-in;
-      animation-duration: 2s;
-      animation-timing-function: ease-in-out;
-      animation-delay: 1s;
-      animation-iteration-count: 1;
-      animation-fill-mode: forwards;
-      opacity: 0;
-    }
-
-    @keyframes fade-in {
-      from {
-        opacity: 0;
-        transform: translateY(-50%);
-      }
-      to {
-        opacity: 1;
-        transform: translateY(0);
-      }
-    }
-  </style>
-</head>
-
 <body>
   <h1>Hi, I'm Alaa Saleem</h1>
 
