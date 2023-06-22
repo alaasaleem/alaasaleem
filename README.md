@@ -17,7 +17,7 @@
 </div>
 
 ###
-## Used languages
+## Used Languages
 
 ###
 
