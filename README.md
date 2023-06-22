@@ -17,7 +17,7 @@
 </div>
 
 ###
-<p align="left">Used languages</p>
+## Used languages
 
 ###
 
