@@ -11,7 +11,7 @@
     </a>
   </div>
 
-  <h2>Used Languages</h2>
+  <h2>Programing Languages</h2>
 
   <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
