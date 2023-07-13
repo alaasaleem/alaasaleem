@@ -1,10 +1,6 @@
 <!DOCTYPE html>
 <html>
 
-<head>
-  <title>Alaa Saleem</title>
-</head>
-
 <body>
   <h1 style="text-align: center;">Hi, I'm Alaa Saleem</h1>
 
