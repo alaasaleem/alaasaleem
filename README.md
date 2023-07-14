@@ -20,7 +20,7 @@
 <br>
 
 - A passionate student with a growing interest in AI
-- Currently pursuing a degree in Computer Engineering at Birzeit University
+- Currently pursuing a degree in Computer Engineering at [Birzeit University](https://www.birzeit.edu/en)
 
 <br><br>
 
