@@ -7,10 +7,6 @@
 </a>
 </p>
 
-  <div align="center">
-    <img height="200" src="https://media.tenor.com/2FGOkckYVfUAAAAC/violet-evergarden-hi.gif" />
-  </div>
-
 <br>
 
 
