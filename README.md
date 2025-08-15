@@ -11,8 +11,9 @@
 
 <br>
 
-- A passionate student with a growing interest in AI
-- Currently pursuing a degree in Computer Engineering at [Birzeit University](https://www.birzeit.edu/en)
+- Bachelor’s in Computer Engineering – [Birzeit University](https://www.birzeit.edu/en)  
+- Strong interest in Artificial Intelligence and Machine Learning  
+- Passionate about solving problems, learning new technologies, and building innovative solutions
 
 <br><br>
 
