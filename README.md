@@ -6,29 +6,11 @@
 </a>
 </p>
 
-## <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="35"><b> About me </b>
+## <b> About me </b>
 
 - Bachelor’s in Computer Engineering – [Birzeit University](https://www.birzeit.edu/en)  
 - Strong interest in Artificial Intelligence and Machine Learning  
 - Passionate about solving problems, learning new technologies, and building innovative solutions  
-
----
-
-## <img src="https://media.giphy.com/media/3o6ZsXxxgYqPCXoG4A/giphy.gif" width="35"><b> Contact </b>
-
-<p align="center">
-  <a href="mailto:alaa.saleem@outlook.com">
-    <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/alaasaleem">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/alaasaleem">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
-
----
 
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"><b> Skills</b>
 
@@ -96,9 +78,21 @@
 
 </p>
 
----
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Stats </b>
 
 <div align="center">
+
+## <b> Contact </b>
+
+<p align="center">
+  <a href="mailto:alaa.saleem@outlook.com">
+    <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/alaasaleem">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/alaasaleem">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
