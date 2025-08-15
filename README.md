@@ -1,26 +1,40 @@
-
 <h1 align="center"><b>Hi , I'm Alaa Saleem </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->
+
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+profile!;I'm+Alaa+Saleem,;Computer+Engineering+Graduate;Birzeit+University+Alumna;Exploring+the+world+of+technology^^">
 </a>
 </p>
 
-## About me
+---
 
-<br>
+## <img src="https://media.giphy.com/media/iFmw13LV1hHhViPPWz/giphy.gif" width="35"><b> About me </b>
 
 - Bachelor’s in Computer Engineering – [Birzeit University](https://www.birzeit.edu/en)  
 - Strong interest in Artificial Intelligence and Machine Learning  
-- Passionate about solving problems, learning new technologies, and building innovative solutions
+- Passionate about solving problems, learning new technologies, and building innovative solutions  
 
-<br><br>
+---
+
+## <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="35"><b> Contact </b>
+
+<p align="center">
+  <a href="mailto:alaa.saleem@outlook.com">
+    <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/alaasaleem">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/alaasaleem">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+---
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="25"><b> Skills</b>
-<br>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"><b> Skills</b>
 
 <p align="center">
 
@@ -81,6 +95,23 @@
     ![MCP](https://img.shields.io/badge/MCP%20&%20A2A-%23009688.svg?style=for-the-badge&logo=protocolsio&logoColor=white) 
 
 </p>
-<br>
-<br>
-<br>
+
+---
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Stats </b>
+
+<div align="center">
+
+<a href="https://github.com/alaasaleem">
+  <img src="https://github-readme-stats.vercel.app/api?username=alaasaleem&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+</a>
+
+<a href="https://github.com/alaasaleem">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=alaasaleem&theme=tokyonight_duo&hide_border=true" width="450"/>
+</a>
+
+<a href="https://github.com/alaasaleem">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alaasaleem&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+</a>
+
+</div>
