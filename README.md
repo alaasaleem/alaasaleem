@@ -19,8 +19,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="25"><b> Skills</b>
 <br>
 
@@ -71,15 +69,16 @@
 <br>
 
 - **Other Skills**:
-  
-    - Agile Scrum / Kanban  
-    - Data Analysis, Modeling, and Visualization  
-    - API Integration  
-    - IoT / IoHT  
-    - Cybersecurity (DDoS, ARP Spoofing, Nmap, Port Scanning)  
-    - MLOps & LLMOps  
-    - LLMs, Generative AI, AI Agents, Agentic AI, RAG  
-    - MCP (Model Context Protocol) & A2A (Agent-to-Agent Protocol)  
+
+    ![Agile](https://img.shields.io/badge/Agile%20Scrum/Kanban-%2300A8E1.svg?style=for-the-badge&logo=trello&logoColor=white)
+    ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-%23FF6F00.svg?style=for-the-badge&logo=chart-bar&logoColor=white)
+    ![API](https://img.shields.io/badge/API%20Integration-%23007ACC.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+    ![IoT](https://img.shields.io/badge/IoT/IoHT-%23FF4B4B.svg?style=for-the-badge&logo=internetarchive&logoColor=white)
+    ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-%23000.svg?style=for-the-badge&logo=hackaday&logoColor=white)
+    ![MLOps](https://img.shields.io/badge/MLOps%20&%20LLMOps-%234479A1.svg?style=for-the-badge&logo=mlflow&logoColor=white)
+    ![Generative AI](https://img.shields.io/badge/Generative%20AI-%236f42c1.svg?style=for-the-badge&logo=openai&logoColor=white)
+    ![AI Agents](https://img.shields.io/badge/AI%20Agents%20&%20RAG-%23FF1493.svg?style=for-the-badge&logo=opsgenie&logoColor=white)
+    ![MCP](https://img.shields.io/badge/MCP%20&%20A2A-%23009688.svg?style=for-the-badge&logo=protocolsio&logoColor=white) 
 
 </p>
 <br>
