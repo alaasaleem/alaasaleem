@@ -6,9 +6,7 @@
 </a>
 </p>
 
----
-
-## <img src="https://media.giphy.com/media/iFmw13LV1hHhViPPWz/giphy.gif" width="35"><b> About me </b>
+## <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="35"><b> About me </b>
 
 - Bachelor’s in Computer Engineering – [Birzeit University](https://www.birzeit.edu/en)  
 - Strong interest in Artificial Intelligence and Machine Learning  
@@ -16,7 +14,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="35"><b> Contact </b>
+## <img src="https://media.giphy.com/media/3o6ZsXxxgYqPCXoG4A/giphy.gif" width="35"><b> Contact </b>
 
 <p align="center">
   <a href="mailto:alaa.saleem@outlook.com">
@@ -32,13 +30,11 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"><b> Skills</b>
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"><b> Skills</b>
 
 <p align="center">
 
-- **Languages & Scripting**:
+- **Programming & Scripting**:
     
     ![C](https://img.shields.io/badge/C-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
     ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
@@ -53,11 +49,15 @@
 - **AI & Data Science**:
 
     ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+    ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+    ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
     ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
     ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=plotly&logoColor=black)
-    ![Kaggle](https://img.shields.io/badge/Kaggle-%230056D2.svg?style=for-the-badge&logo=kaggle&logoColor=white)
+    ![Seaborn](https://img.shields.io/badge/Seaborn-%23336098.svg?style=for-the-badge&logoColor=white)
     ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
     ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9AB00.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
+    ![Kaggle](https://img.shields.io/badge/Kaggle-%230056D2.svg?style=for-the-badge&logo=kaggle&logoColor=white)
+    ![Hugging Face](https://img.shields.io/badge/HuggingFace-%23FF6F00.svg?style=for-the-badge&logo=huggingface&logoColor=white)
 
 <br>
 
@@ -82,17 +82,17 @@
 
 <br>
 
-- **Other Skills**:
+- **Other Skills & Expertise**:
 
     ![Agile](https://img.shields.io/badge/Agile%20Scrum/Kanban-%2300A8E1.svg?style=for-the-badge&logo=trello&logoColor=white)
-    ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-%23FF6F00.svg?style=for-the-badge&logo=chart-bar&logoColor=white)
+    ![Business Systems](https://img.shields.io/badge/Business%20Driven%20Systems-%23FF6F00.svg?style=for-the-badge&logo=notion&logoColor=white)
     ![API](https://img.shields.io/badge/API%20Integration-%23007ACC.svg?style=for-the-badge&logo=fastapi&logoColor=white)
     ![IoT](https://img.shields.io/badge/IoT/IoHT-%23FF4B4B.svg?style=for-the-badge&logo=internetarchive&logoColor=white)
     ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-%23000.svg?style=for-the-badge&logo=hackaday&logoColor=white)
     ![MLOps](https://img.shields.io/badge/MLOps%20&%20LLMOps-%234479A1.svg?style=for-the-badge&logo=mlflow&logoColor=white)
     ![Generative AI](https://img.shields.io/badge/Generative%20AI-%236f42c1.svg?style=for-the-badge&logo=openai&logoColor=white)
     ![AI Agents](https://img.shields.io/badge/AI%20Agents%20&%20RAG-%23FF1493.svg?style=for-the-badge&logo=opsgenie&logoColor=white)
-    ![MCP](https://img.shields.io/badge/MCP%20&%20A2A-%23009688.svg?style=for-the-badge&logo=protocolsio&logoColor=white) 
+    ![MCP](https://img.shields.io/badge/MCP%20&%20A2A-%23009688.svg?style=for-the-badge&logo=protocolsio&logoColor=white)
 
 </p>
 
@@ -102,16 +102,3 @@
 
 <div align="center">
 
-<a href="https://github.com/alaasaleem">
-  <img src="https://github-readme-stats.vercel.app/api?username=alaasaleem&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-</a>
-
-<a href="https://github.com/alaasaleem">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=alaasaleem&theme=tokyonight_duo&hide_border=true" width="450"/>
-</a>
-
-<a href="https://github.com/alaasaleem">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alaasaleem&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-</a>
-
-</div>
