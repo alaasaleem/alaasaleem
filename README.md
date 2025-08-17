@@ -8,7 +8,8 @@
 
 ## <b> About me </b>
 
-- Bachelor’s in Computer Engineering – [Birzeit University](https://www.birzeit.edu/en)  
+- Bachelor’s in Computer Engineering – [Birzeit University](https://www.birzeit.edu/en)
+- Training experience in Artificial Intelligence at [Asal Technologies](https://www.asaltech.com/)
 - Strong interest in Artificial Intelligence and Machine Learning  
 - Passionate about solving problems, learning new technologies, and building innovative solutions  
 
